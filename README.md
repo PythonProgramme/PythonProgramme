@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PythonProgramme
 - 👀 I’m interested in **Python, Full Stack Development, Cyber Security**
-- 🌱 I’m currently learning Computer Eng.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning **Computer Eng.**
+<!-- - 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ... -->
 
 <!---
 PythonProgramme/PythonProgramme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
